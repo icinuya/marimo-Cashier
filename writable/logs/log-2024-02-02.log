@@ -1,0 +1,55 @@
+CRITICAL - 2024-02-02 00:29:34 --> ErrorException: Undefined variable $menu
+in APPPATH\Views\v_template.php on line 86.
+ 1 APPPATH\Views\v_template.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php', 86)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 5 APPPATH\Controllers\User.php(15): view('v_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 02:06:17 --> ErrorException: Undefined variable $menu
+in APPPATH\Views\v_template.php on line 77.
+ 1 APPPATH\Views\v_template.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php', 77)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 5 APPPATH\Controllers\Kategori.php(15): view('v_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Kategori->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kategori))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 02:11:19 --> ErrorException: Undefined variable $menu
+in APPPATH\Views\v_template.php on line 77.
+ 1 APPPATH\Views\v_template.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php', 77)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 5 APPPATH\Controllers\Kategori.php(15): view('v_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Kategori->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kategori))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 02:12:30 --> ErrorException: Undefined variable $menu
+in APPPATH\Views\v_template.php on line 76.
+ 1 APPPATH\Views\v_template.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php', 76)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 5 APPPATH\Controllers\Kategori.php(15): view('v_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Kategori->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kategori))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 02:13:37 --> ErrorException: Undefined variable $menu
+in APPPATH\Views\v_template.php on line 76.
+ 1 APPPATH\Views\v_template.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php', 76)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 5 APPPATH\Controllers\Satuan.php(15): view('v_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

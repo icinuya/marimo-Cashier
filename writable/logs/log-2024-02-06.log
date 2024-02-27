@@ -1,0 +1,299 @@
+INFO - 2024-02-06 03:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-06 03:04:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:04:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:05:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 03:05:05 --> CodeIgniter\Database\Exceptions\DatabaseException: You must use the "set" method to insert an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2344.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2284): CodeIgniter\Database\BaseBuilder->validateInsert()
+ 2 APPPATH\Models\ModelSatuan.php(18): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH\Controllers\Satuan.php(34): App\Models\ModelSatuan->InsertData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->InsertData()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:05:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:07:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:08:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:08:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:09:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:09:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:09:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:10:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:11:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:11:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:11:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-06 03:38:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-06 03:54:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:54:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:55:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 03:55:04 --> CodeIgniter\Database\Exceptions\DatabaseException: You must use the "set" method to insert an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2344.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2284): CodeIgniter\Database\BaseBuilder->validateInsert()
+ 2 APPPATH\Models\ModelSatuan.php(18): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH\Controllers\Satuan.php(34): App\Models\ModelSatuan->InsertData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->InsertData()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:57:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:58:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:58:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 03:58:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 03:58:22 --> CodeIgniter\Database\Exceptions\DatabaseException: You must use the "set" method to insert an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2344.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2284): CodeIgniter\Database\BaseBuilder->validateInsert()
+ 2 APPPATH\Models\ModelSatuan.php(18): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH\Controllers\Satuan.php(34): App\Models\ModelSatuan->InsertData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->InsertData()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 04:02:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 04:02:54 --> CodeIgniter\Database\Exceptions\DatabaseException: You must use the "set" method to insert an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2344.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2284): CodeIgniter\Database\BaseBuilder->validateInsert()
+ 2 APPPATH\Models\ModelSatuan.php(18): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH\Controllers\Satuan.php(34): App\Models\ModelSatuan->InsertData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->InsertData()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 04:02:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-06 04:02:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 04:05:54 --> ErrorException: Undefined property: App\Controllers\Satuan::$ModelSatuan
+in APPPATH\Controllers\Satuan.php on line 29.
+ 1 APPPATH\Controllers\Satuan.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Satuan::$ModelSatuan', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Controllers\\Satuan.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->InsertData()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 04:06:11 --> CodeIgniter\Database\Exceptions\DatabaseException: You must use the "set" method to insert an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2344.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2284): CodeIgniter\Database\BaseBuilder->validateInsert()
+ 2 APPPATH\Models\ModelSatuan.php(18): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH\Controllers\Satuan.php(29): App\Models\ModelSatuan->InsertData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->InsertData()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 04:06:26 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\ModelSatuan"
+in SYSTEMPATH\Model.php on line 766.
+ 1 SYSTEMPATH\Model.php(766): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelSatuan')
+ 2 SYSTEMPATH\BaseModel.php(783): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Satuan.php(29): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->InsertData()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-06 04:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-06 04:09:17 --> BadMethodCallException: Call to undefined method App\Models\ModelSatuan::AllData
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Satuan.php(20): CodeIgniter\Model->__call('AllData', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 04:12:07 --> BadMethodCallException: Call to undefined method App\Models\ModelSatuan::AllData
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Satuan.php(20): CodeIgniter\Model->__call('AllData', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 04:12:09 --> BadMethodCallException: Call to undefined method App\Models\ModelSatuan::AllData
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Satuan.php(20): CodeIgniter\Model->__call('AllData', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-06 04:13:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 04:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 04:56:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 04:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 04:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 04:59:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-06 05:14:20 --> BadMethodCallException: Call to undefined method App\Models\ModelKategori::AllData
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Kategori.php(25): CodeIgniter\Model->__call('AllData', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Kategori->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kategori))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 05:16:41 --> BadMethodCallException: Call to undefined method App\Models\ModelKategori::AllData
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Kategori.php(25): CodeIgniter\Model->__call('AllData', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Kategori->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kategori))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-06 05:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:45:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 05:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 06:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 06:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-06 06:22:38 --> BadMethodCallException: Call to undefined method App\Models\ModelSatuan::UpdateData
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Satuan.php(43): CodeIgniter\Model->__call('UpdateData', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->UpdateData('6')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 06:28:55 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Controllers\Satuan.php(43): CodeIgniter\Model->update([...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->UpdateData('6')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-06 06:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 06:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 06:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-06 06:29:25 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Controllers\Satuan.php(43): CodeIgniter\Model->update([...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->UpdateData('7')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-06 06:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-06 06:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-06 06:34:52 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Controllers\Satuan.php(43): CodeIgniter\Model->update([...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Satuan->UpdateData('6')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Satuan))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-06 06:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-06 06:43:02 --> ErrorException: Undefined variable $menu
+in APPPATH\Views\v_template.php on line 83.
+ 1 APPPATH\Views\v_template.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php', 83)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 5 APPPATH\Controllers\Admin.php(16): view('v_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,164 @@
+INFO - 2024-02-12 12:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 12:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 14:25:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 14:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 14:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 14:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 14:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 14:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 15:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 15:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 16:19:56 --> ErrorException: Undefined variable $kategori
+in APPPATH\Views\v_produk.php on line 86.
+ 1 APPPATH\Views\v_produk.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php', 86)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Views\v_template.php(237): view('v_produk')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Produk.php(26): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 16:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 16:24:10 --> ErrorException: Undefined variable $kategori
+in APPPATH\Views\v_produk.php on line 86.
+ 1 APPPATH\Views\v_produk.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php', 86)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Views\v_template.php(237): view('v_produk')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Produk.php(30): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 16:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 16:24:11 --> ErrorException: Undefined variable $kategori
+in APPPATH\Views\v_produk.php on line 86.
+ 1 APPPATH\Views\v_produk.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php', 86)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Views\v_template.php(237): view('v_produk')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Produk.php(30): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 16:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 16:24:12 --> ErrorException: Undefined variable $kategori
+in APPPATH\Views\v_produk.php on line 86.
+ 1 APPPATH\Views\v_produk.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php', 86)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Views\v_template.php(237): view('v_produk')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Produk.php(30): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 16:24:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 16:24:13 --> ErrorException: Undefined variable $kategori
+in APPPATH\Views\v_produk.php on line 86.
+ 1 APPPATH\Views\v_produk.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php', 86)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Views\v_template.php(237): view('v_produk')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Produk.php(30): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 16:24:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 16:24:13 --> ErrorException: Undefined variable $kategori
+in APPPATH\Views\v_produk.php on line 86.
+ 1 APPPATH\Views\v_produk.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php', 86)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Views\v_template.php(237): view('v_produk')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Produk.php(30): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 16:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 16:26:28 --> ErrorException: Undefined array key "id_kategori"
+in APPPATH\Views\v_produk.php on line 171.
+ 1 APPPATH\Views\v_produk.php(171): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_kategori"', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php', 171)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Views\v_template.php(237): view('v_produk')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Produk.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 16:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 16:26:30 --> ErrorException: Undefined array key "id_kategori"
+in APPPATH\Views\v_produk.php on line 171.
+ 1 APPPATH\Views\v_produk.php(171): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_kategori"', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php', 171)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Views\v_template.php(237): view('v_produk')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Produk.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 16:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 16:26:30 --> ErrorException: Undefined array key "id_kategori"
+in APPPATH\Views\v_produk.php on line 171.
+ 1 APPPATH\Views\v_produk.php(171): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_kategori"', 'C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php', 171)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Views\v_template.php(237): view('v_produk')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xamppp\\htdocs\\minikasir_ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Produk.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Produk->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 16:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 16:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
