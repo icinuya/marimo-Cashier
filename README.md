@@ -25,4 +25,4 @@ Untuk menggunakan aplikasi -> impor database aplikasi_kasir.sql ke web server da
 
 Username: admin
 
-Password: admin123
+Password: 123
